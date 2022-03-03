@@ -1,0 +1,5 @@
+1. What new things did you learn, in as much detail as possible?
+
+I learned that a nested loop is typically O(n^2) complexity, which makes intuitive sense to me as two loops are necessary to define 2d objects, and 2d space is R^2.
+I also learned that I should read a description of the algorithm and try to implement it myself, before I copy the solution directly.
+
