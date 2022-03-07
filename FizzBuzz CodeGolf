@@ -1,0 +1,3 @@
+FizzBuzz CodeGolf
+
+print(*([["FizzBuzz","Buzz"],["Fizz",i]][i%5>0][i%3>0]for i in range(1,101)),sep='\n')
